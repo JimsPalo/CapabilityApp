@@ -4,6 +4,15 @@ By: [Jimmy Palomino](https://www.linkedin.com/in/jimmypalomino/, 'LinkedIn')
 ## Description
 This application draws the capacity diagram for a salient pole synchronous machine.
 
+To run click on `Aplicar`
+
+### Capability Diagram 
+![Principal Screen](Example/Capability.png)
+
+## Phasor Diagram
+![Phasor Diagram](Example/PhsorDiagram.png)
+
+
 
 ## Objetive 
 Generate the capability diagram for a salient pole synchronous machine based in a intuitive app.
