@@ -18,7 +18,7 @@ To run click on `Aplicar`
 Generate the capability diagram for a salient pole synchronous machine based in a intuitive app.
 
 ## Requirements
-MatLab > 9.6 (2019a)
+MatLab > 2021a
 
 ## Files
 
